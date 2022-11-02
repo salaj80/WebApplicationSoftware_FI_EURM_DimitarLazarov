@@ -1,0 +1,65 @@
+.bi-facebook{
+    margin-top: 10px;
+}
+.navbar-header{
+    font-family: serif;
+    font-weight: bold;
+    font-size: larger;
+}
+.navbar {
+    margin-bottom: 0;
+    font-weight: bold;
+}
+  
+.bg1 {
+position: relative;
+text-align: center;
+color: white;
+font-family: Brush Script MT;
+}
+
+.centered {
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%, -50%);
+width:100%;
+color: lightgray;
+}
+
+.pozadina{
+color:white;
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+text-align:center;
+}
+
+.kopce{
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.footer1 {
+background-color:#2d4383;
+padding: 20px;
+margin: 0px;
+text-align: center;
+color: white;
+}
+
+#test
+{
+  margin:10px;
+  color:white;
+  font-family: serif;
+  font-size: medium;
+} 
+
+#test1
+{
+    height: 250px;
+  margin-top:10px;
+  margin-bottom:10px;
+  font-family: serif;
+}
